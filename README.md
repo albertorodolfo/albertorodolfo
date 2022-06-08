@@ -3,8 +3,8 @@
 ### Hi there 👋
 I am  a Ecuador i like to learn and acquire knowledge, with the spirit of sharing knowledge and collaborating and computational 
 ## get in touch
--Linkedin:[linkedin.com/rodolfo barrera](https://www.linkedin.com/in/rodolfo-barrera)
--Facebook:[facebook.com/Alberto Barrera](https://www.facebook.com/Alberto Barrera)
+-Linkedin:[linkedin.com/rodolfo barrera](https://www.linkedin.com/in/rodolfo-barrera/)
+-Facebook:[facebook.com/Alberto Barrera](https://www.facebook.com/Alberto Barrera/)
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/albertorodolfo/albertorodolfo">
