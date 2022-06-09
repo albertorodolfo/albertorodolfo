@@ -5,10 +5,12 @@ I am  a Ecuador i like to learn and acquire knowledge, with the spirit of sharin
 however I'm currently studying networks and telecommunications at the university and in my free time I practice cycling love cycling
 ## 📬 get in touch
 
--Linkedin:[linkedin.com/rodolfo barrera](https://www.linkedin.com/in/rodolfo-barrera)
--Facebook:[facebook.com/Alberto Barrera](https://www.facebook.com/Alberto Barrera)
+<a href="https://www.linkedin.com/in/rodolfo-barrera">Linkedin</a><br>
+<img src="http://c.files.bbci.co.uk/12004/production/_110623737_gettyimages-1194141068.jpg" width="50" height="50"><p> </p><a href="https://www.facebook.com/Alberto Barrera">FACEBOOK</a><br>
+<a href="https://www.youtube.com" >MI CANAL DE YOUTUBE</a><br>
 
-## &#x1f4c8; My GitHub Stats
+
+
 
 
 <a href="https://github.com/albertorodolfo/albertorodolfo">
@@ -19,8 +21,6 @@ however I'm currently studying networks and telecommunications at the university
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertorodolfo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="albertorodolfo's GitHub Stats" />
 </a>
 
-
-**albertorodolfo/albertorodolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
