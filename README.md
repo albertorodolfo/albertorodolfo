@@ -1,5 +1,5 @@
-![Github Views](https://kamrev.com/ghpvc/?username=albertorodolfo&color=2685BF)
 
+<img aling="center" src="logo.png" width="1000" height="400">
 ### Hi there 👋
 I am  a Ecuador i like to learn and acquire knowledge, with the spirit of sharing new knowledge and collaborating and computational 
 however I'm currently studying networks and telecommunications at the university and in my free time I practice cycling love cycling
