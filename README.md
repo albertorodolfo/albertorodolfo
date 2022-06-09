@@ -1,14 +1,17 @@
 
 <img aling="center" src="logo.png" width="1000" height="400">
-### Hi there 👋
+ Hi there 👋<br>
 I am  a Ecuador i like to learn and acquire knowledge, with the spirit of sharing new knowledge and collaborating and computational 
 however I'm currently studying networks and telecommunications at the university and in my free time I practice cycling love cycling
-## 📬 get in touch
+
 
 <a href="https://www.linkedin.com/in/rodolfo-barrera">Linkedin</a><br>
-<img src="http://c.files.bbci.co.uk/12004/production/_110623737_gettyimages-1194141068.jpg" width="50" height="50"><p> </p><a href="https://www.facebook.com/Alberto Barrera">FACEBOOK</a><br>
+<img src="https://proinfluent.b-cdn.net/wp-content/uploads/2021/10/linkedin-logo.jpg" width="100" height="40"><p>
+<a href="https://www.facebook.com/Alberto Barrera">FACEBOOK</a><br>
+<img src="https://i.blogs.es/6f53b9/facebook-modo-oscuro-1/840_560.jpg" width="50" height="50"><p>
 <a href="https://www.youtube.com" >MI CANAL DE YOUTUBE</a><br>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" width="30" height="30"><p>
+📬 get in touch
 
 
 
